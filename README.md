@@ -1,5 +1,5 @@
 # state-pattern-speed-demo
-Code du coding dojo du 20/10 @frianbiz - Head First Design Patterns Book (Chapitre 10)
+Coding dojo du 20/10 @frianbiz - Head First Design Patterns Book (Chapitre 10)
 
 # L'unité centrale d'un distributeur de bobon
 ## (Demande initiale du client)
