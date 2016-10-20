@@ -27,6 +27,7 @@ $distributeur->tournerPoignee();
  - Vous avez inséré une pièce
  - Vous avez tourné...
  - Un bonbon va sortir
+ 
 # La demande de changement
 > Ok ça marche mais demande d'évolution du client: Le jeu concours! 10 % du temps, quand on tourne la poigné du distributeure, il reçoit deux bonbons au lieu d’un.
 > Team: Avec la conception actuelle, c'est compliqué...
