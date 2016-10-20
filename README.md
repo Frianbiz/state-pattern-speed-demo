@@ -1,4 +1,4 @@
-# state-pattern-speed-demo
+# State pattern
 Coding dojo du 20/10 @frianbiz - Head First Design Patterns Book (Chapitre 10)
 
 # L'unité centrale d'un distributeur de bonbons
