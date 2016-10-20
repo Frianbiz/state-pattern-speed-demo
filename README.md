@@ -6,7 +6,7 @@ Coding dojo du 20/10 @frianbiz - Head First Design Patterns Book (Chapitre 10)
 Le ditributeur peut être dans 4 états :
  - sans pièce
  - avec une pièce
- - transaction validée (Le client à tourné la poignée)
+ - transaction validée (le client a tourné la poignée)
  - rupture de stock
  
 Les actions :
@@ -31,7 +31,7 @@ Code: https://github.com/Frianbiz/state-pattern-speed-demo/blob/master/sans-patt
  - Un bonbon va sortir
  
 # La demande de changement
-> Ok ça marche mais demande d'évolution du client: Le jeu concours! 10 % du temps, quand on tourne la poignée du distributeure, il reçoit deux bonbons au lieu d’un.
+> Ok ça marche mais demande d'évolution du client: Le jeu concours! 10 % du temps, quand on tourne la poignée du distributeur, il reçoit deux bonbons au lieu d’un.
 > Team: Avec la conception actuelle, c'est compliqué...
 
 ## Nouvelle conception (implémentation du pattern State)
