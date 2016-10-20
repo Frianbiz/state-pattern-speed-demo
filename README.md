@@ -22,6 +22,8 @@ $distributeur = new Distributeur(5);
 $distributeur->insererPiece();
 $distributeur->tournerPoignee();
 ```
+Code: https://github.com/Frianbiz/state-pattern-speed-demo/blob/master/sans-pattern/Distributeur.php
+
 ### output
  - v1 (sans pattern) :
  - Vous avez inséré une pièce
@@ -40,6 +42,8 @@ $distributeur = new DistributeurV2(5);
 $distributeur->insererPiece();
 $distributeur->tournerPoignee();
 ```
+Code: https://github.com/Frianbiz/state-pattern-speed-demo/blob/master/avec-pattern/DistributeurV2.php
+
 ### output
  - v2 (avec pattern):
  - Vous avez inséré une pièce
